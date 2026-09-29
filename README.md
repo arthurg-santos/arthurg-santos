@@ -1,9 +1,7 @@
-# Oi, eu sou o Arthur! 👋
+# Hi, I'm Arthur!
 
-Gosto de criar coisas, testar ideias e aprender programando.
+I'm the co-founder of **SynastrIA Networks**. On my profile, I build vibe-coded projects for fun, experiment with new ideas, and learn by making things.
 
-Aqui no meu GitHub você vai encontrar projetos de todos os tipos, desde experimentos rápidos até projetos mais completos, desenvolvidos em diferentes linguagens como **C++**, **Go**, **Python** e outras.
+I’m mostly interested in **software, Linux, AI, web development, and creative side projects**.
 
-Nem tudo aqui é perfeito, mas cada repositório representa algo que simplesmente tive vontade de construir.
-
-Fique à vontade para explorar os projetos.
+Some projects are serious. Some are experiments. Most are a bit of both.
